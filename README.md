@@ -391,7 +391,7 @@ RETURN  CompleteCalendar
 Модель основных таблиц:
 ![Описание изображения](images/Модель_1.png)
 
-Модель mfo_contracts:
+Модель mfo_contracts (все атрибуты были распределены в отдельные таблицы):
 ![Описание изображения](images/Модель_mfo_contracts.png)
 
 Модель Scores:
